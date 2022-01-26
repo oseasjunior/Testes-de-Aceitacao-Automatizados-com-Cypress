@@ -1,0 +1,29 @@
+{
+  "name": "testes-de-aceitacao-automatizados-com-cypress",
+  "version": "1.0.0",
+  "description": "Testes de Aceitação WEB da pagina de Automação do Batista com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oseasjunior/Testes-de-Aceitacao-Automatizados-com-Cypress.git"
+  },
+  "keywords": [
+    "Automacao",
+    "Cypress"
+  ],
+  "author": "Oseas Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oseasjunior/Testes-de-Aceitacao-Automatizados-com-Cypress/issues"
+  },
+  "homepage": "https://github.com/oseasjunior/Testes-de-Aceitacao-Automatizados-com-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  },
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
+}
